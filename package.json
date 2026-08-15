@@ -1,6 +1,6 @@
 {
   "name": "create-w-base",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Create a new Next.js project with NextAuth, Prisma and shadcn/ui",
   "type": "module",
   "bin": {
